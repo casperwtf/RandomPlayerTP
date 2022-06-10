@@ -1,0 +1,6 @@
+name: RPT
+version: '${project.version}'
+main: wtf.casper.randomplayertp.RandomPlayerTP
+api-version: 1.18
+commands:
+  rpt:
